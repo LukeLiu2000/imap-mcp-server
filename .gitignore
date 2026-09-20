@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Env / secrets
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local MCP account data (never commit credentials)
+.accounts/
